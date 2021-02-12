@@ -1,0 +1,115 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+img{ 
+  border: none;
+}
+
+body{
+  width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	min-width: 1000px;
+	background-color: #f3f5f7;
+	background-position: center top;
+	background-repeat:repeat-y;
+	background-attachment: fixed;
+ text-align:center;
+  font-size: 22px;
+  font-family: Arial,Helvetica,"游ゴシック体","Yu Gothic",YuGothic,Meiryo,Osaka,"Hiragino Kaku Gothic Pro","MS PGothic",sans-serif;
+    color: #000000;
+	 line-height: 1.8;
+  letter-spacing: 0.03em;
+}
+
+.group1{
+  background: url(img/header.jpg) no-repeat top center;
+   height: 1500px;
+ }
+
+.group2{
+  background: url(img/2.jpg) no-repeat top center;
+  height: 2017px;
+  /* position: absolute; */
+}
+.group25{
+  background: url(img/2.5.jpg) no-repeat top center;
+  height: 1170px;
+  /* position: absolute; */
+}
+.group3{
+  background: url(img/3.jpg) no-repeat top center;
+  height: 5568px;
+}
+.group4{
+  background: url(img/4.jpg) no-repeat top center;
+  height: 4455px;
+}
+.group5{
+  background: url(img/5.jpg) no-repeat top center;
+  height: 5319px;
+}
+.group55{
+  background: url(img/5.5.jpg) no-repeat top center;
+  height: 2252px;
+}
+.group6{
+  background: url(img/6.jpg) no-repeat top center;
+  height: 8664px;
+}
+.group7{
+  background: url(img/7.jpg) no-repeat top center;
+  height: 8616px;
+}
+.group8{
+  background: url(img/8.jpg) no-repeat top center;
+  height: 3450px;
+}
+.group9{
+  background: url(img/9.jpg) no-repeat top center;
+  height: 4205px;
+}
+
+
+.btn{
+  position: relative;
+  bottom: -1650px;
+}
+
+.btn2{
+  position: relative;
+  bottom: -1070px;
+}
+
+/* footer{
+    display: block;
+    color: #5c6890;
+    font-size: 14px;
+    line-height: 1.3;
+    padding: 5px 0 10px 0;
+    background: #0c1522;
+    width: 100%;
+}
+
+.link{
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.bar{
+  margin: 0 5px;
+}
+
+.link_txt{
+  color:#2236cf;
+  text-decoration: underline;
+}
+
+.link_txt:hover{
+  color: red;
+} */
