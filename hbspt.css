@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+  .hs-input{
+    padding: 13px;
+    background-color: #f6f6f6;
+  }
+
 #form{
     width: 1100px;
     margin: 0 auto;
@@ -20,6 +25,7 @@
     .hs-form fieldset {
       max-width: none!important;
       }
+
 
 
 
